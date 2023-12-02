@@ -13,7 +13,7 @@ CodeJet: A robust code compiler built using React, Express, and Node.js.
 1) Select Language: Choose from a list of supported programming languages.
 2) Code Input: Input code directly into the editor or use text mode for a streamlined experience.
 3) Compile & Run: Execute code with a simple click, view results and potential errors.
-4) ave & Share: Option to save code snippets or share them with others.
+4) Save & Share: Option to save code snippets or share them with others.
 
 # Technologies Used:
 1) React
