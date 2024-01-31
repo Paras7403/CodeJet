@@ -11,19 +11,17 @@
 
 - You can choose any of them as per your requirements either from nav-bar or from home page.
 
-![Screenshot 2023-08-03 160829](cjet1.png)
+![Screenshot 2024](cjet1.png)
 
 - WEB-DEVELOPMENT mode enable user to write code in HTML, CSS and JavaScript to develop and develop any web designs.
 - There are 3 text editors in top section which are collapsible and takes HTMl, CSS and JS a their input respectively.
 - Whatever design user built should be displyed asynchronously in buttom section of the page.
 
-![Screenshot 2023-08-03 160911](cjet2.png)
+![Screenshot 2024](cjet2.png)
 
-- DEVELOPMENT mode allows the user to choose between 40+ languages and write code on that language over the editor provided.
+- DEVELOPMENT mode allows the user to choose between 16+ languages and write code on that language over the editor provided.
 - Output should be displayed on the output section in the right side of the page where as user can give custom input in the text box proveded and the status of your code with the details like memory and time should also bo visible just bellow the input box.
 
-![Screenshot 2023-08-03 161437](cjet4.png)
-  
-![Screenshot 2023-08-03 161532](cjet3.png)
+![Screenshot 2024](cjet3.png)
 
 ** The code you have written and the language choosen won't be erased or changed untill you change them.
