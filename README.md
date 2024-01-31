@@ -1,8 +1,9 @@
-# CodeJet (https://cjet.netlify.app)
+# CodeJet
 
 - CodeJet is an desktop adaptive online compiler which can come handy to developers for some quick operation or tests as well as it can be quite helpful during any interview.
 - It uses Monaco editor to power it up as an editor to give the best experience to the programmer while writing codes and it uses Judge0 api service to provide the compilation power to support more than 40 programming languages.
 
+# Website live here (<a href="https://cjet.netlify.app">)
 ### Features and Functionalities
 
 - It is a simple webapp that has two modes for developers
