@@ -11,7 +11,7 @@
 
 - You can choose any of them as per your requirements either from nav-bar or from home page.
 
-![Screenshot 2023-08-03 160829]()
+![Screenshot 2023-08-03 160829](cjet1.png)
 
 - WEB-DEVELOPMENT mode enable user to write code in HTML, CSS and JavaScript to develop and develop any web designs.
 - There are 3 text editors in top section which are collapsible and takes HTMl, CSS and JS a their input respectively.
