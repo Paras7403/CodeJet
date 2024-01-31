@@ -17,13 +17,13 @@
 - There are 3 text editors in top section which are collapsible and takes HTMl, CSS and JS a their input respectively.
 - Whatever design user built should be displyed asynchronously in buttom section of the page.
 
-![Screenshot 2023-08-03 160911]()
+![Screenshot 2023-08-03 160911](cjet2.png)
 
 - DEVELOPMENT mode allows the user to choose between 40+ languages and write code on that language over the editor provided.
 - Output should be displayed on the output section in the right side of the page where as user can give custom input in the text box proveded and the status of your code with the details like memory and time should also bo visible just bellow the input box.
 
-![Screenshot 2023-08-03 161437]()
+![Screenshot 2023-08-03 161437](cjet4.png)
   
-![Screenshot 2023-08-03 161532]()
+![Screenshot 2023-08-03 161532](cjet3.png)
 
 ** The code you have written and the language choosen won't be erased or changed untill you change them.
